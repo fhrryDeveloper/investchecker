@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__charging" width="41" height="41" viewBox="0 0 41 41">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="prefix__Path_381" d="M20.5 0A20.5 20.5 0 1 0 41 20.5 20.5 20.5 0 0 0 20.5 0zm0 39.633A19.133 19.133 0 1 1 39.633 20.5 19.133 19.133 0 0 1 20.5 39.633zm0 0" class="prefix__cls-1" data-name="Path 381"/>
+    <path id="prefix__Path_383" fill="#fff" stroke="#fff" stroke-width="0.5px" d="M14.5 0A14.5 14.5 0 1 0 29 14.5 14.5 14.5 0 0 0 14.5 0zm0 28.033A13.533 13.533 0 1 1 28.033 14.5 13.533 13.533 0 0 1 14.5 28.033zm0 0" data-name="Path 383" transform="translate(6 6)"/>
+    <path id="prefix__Path_382" d="M167.048 119.475h-5.016v-6.853a.64.64 0 0 0-.509-.6.774.774 0 0 0-.8.25l-8.6 11.214a.555.555 0 0 0-.036.64.738.738 0 0 0 .632.329h5.016v6.853a.64.64 0 0 0 .509.6.774.774 0 0 0 .8-.25l8.6-11.214a.555.555 0 0 0 .036-.64.738.738 0 0 0-.632-.329zm-7.882 9.781v-5.42a.675.675 0 0 0-.717-.623h-4.393l6.543-8.535v5.42a.675.675 0 0 0 .717.623h4.393zm0 0" class="prefix__cls-1" data-name="Path 382" transform="translate(-139.382 -101.467)"/>
+</svg>

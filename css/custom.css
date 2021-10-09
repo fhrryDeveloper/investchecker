@@ -1,0 +1,117 @@
+.home .section-five {
+    background-color: #f0f0f0;
+}
+
+.home .section-five .companies__wrapper {
+    text-align: center;
+    margin-left: -8px !important;
+    margin-right: -8px !important;
+}
+
+.home .section-five .companies__wrapper:before {
+    content: " " !important;
+    display: table !important;
+}
+
+.home .section-five .companies__wrapper:after {
+    content: " " !important;
+    display: table !important;
+    clear: both !important;
+}
+
+.home .section-five .companies__wrapper .text-block {
+    margin: 0px !important;
+    word-wrap: break-word !important;
+    font-family: gilroy-regular, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.75em !important;
+    color: #484848 !important;
+}
+
+.home .section-five .companies__wrapper .sub-title div {
+    margin: 0px !important;
+    word-wrap: break-word !important;
+    color: #484848 !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+.home .section-five .companies__wrapper .sub-title {
+    color: inherit !important;
+    font-family: gilroy-regular, sans-serif;
+    font-size: 1.17em;
+    font-weight: bold;
+    line-height: 1.25em !important;
+    line-height: inherit !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.home .section-five .companies__wrapper .round-img {
+    background-position: 50% 50% !important;
+    background-repeat: no-repeat !important;
+}
+
+.home .section-five .companies__wrapper .block {
+    border-radius: 10px;
+    background-color: #fdfdfd;
+    max-width: 100%;
+    padding: 25px 30px!important;
+    margin: 25px 30px!important;
+    min-height: 1px !important;
+    position: relative !important;
+}
+
+@media (min-width: 1128px) {
+    .home .section-five .companies__wrapper .block {
+        padding: 25px 30px!important;
+        width: 33.33333333333333% !important;
+        min-height: 100%;
+        float: left !important;
+    }
+}
+
+.home .section-five .companies__wrapper .block .why__item-left-wrap {
+    display: flex;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background-image: linear-gradient(134deg, #f682f2 -8%, #473aa5 117%);
+    border-radius: 10px;
+    align-items: center;
+}
+
+.home .section-five .companies__wrapper .block .why__item-left-wrap img {
+    max-height: 35px;
+}
+
+.home .section-five .companies__wrapper .step-card {
+    display: flex;
+    margin-top: 24px;
+}
+
+@media (max-width: 1128px) {
+    .home .section-five .companies__wrapper .step-card {
+        display: block;
+        margin-top: 24px;
+    }
+}
+
+.questionnaire .show_value_wrap {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px
+}
+
+@media (max-width: 600px) {
+    .questionnaire .show_value_wrap {
+        display: block;
+        text-align: center;
+        margin-top: 40px
+    }
+    .questionnaire .show_value_wrap div {
+        margin: 15px 0px;
+    }
+}
